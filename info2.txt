@@ -1,0 +1,5 @@
+Name: Aleizhia Magtaas
+Age: 20
+School: San Beda Alabang
+Gender: Female
+Address: Molino
