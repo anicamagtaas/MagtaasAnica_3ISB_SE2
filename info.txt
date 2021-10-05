@@ -1,0 +1,5 @@
+Name: Anica Magtaas
+Age: 21
+School: University Of Santo Tomas
+Gender: Female
+Address: Cavite
